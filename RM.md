@@ -21,8 +21,4 @@ Main changes are in `Copy to SD Card.../config.ini`.
 
 4. Check the SD card has all folders with `.cur` suffix.
 
-
-
-
-
-
+5. Run Touch Screen Calibration
